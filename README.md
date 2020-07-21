@@ -8,7 +8,7 @@
 
 - This Repo contains a Jupyter notebook that takes input images, feeds them to Yolo and returns the Rendered images.
 
-<img src= 'https://raw.githubusercontent.com/Hardly-Human/Yolo-Object-Detector/master/lpu-students.jpg' width = "400" height="250"><img src='https://img.icons8.com/plasticine/2x/arrow.png' width = "120" height = "150"><img src= 'https://raw.githubusercontent.com/Hardly-Human/Yolo-Object-Detector/master/lpu-students%20(1).jpg' width = "400" height = "250">
+<img src= 'https://raw.githubusercontent.com/Hardly-Human/Yolo-Object-Detector/master/lpu-students.jpg' width = "300" height="200"><img src='https://img.icons8.com/plasticine/2x/arrow.png' width = "120" height = "150"><img src= 'https://raw.githubusercontent.com/Hardly-Human/Yolo-Object-Detector/master/lpu-students%20(1).jpg' width = "300" height = "200">
 
 # References :
 
